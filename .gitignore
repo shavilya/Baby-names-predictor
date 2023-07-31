@@ -1,0 +1,7 @@
+# Don't add this folders. 
+
+
+build/
+dist/
+chrome_driver/
+Baby_Name_Predictor.egg-info/
