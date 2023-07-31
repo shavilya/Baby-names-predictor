@@ -1,0 +1,8 @@
+setup.py
+Baby_Name_Predictor.egg-info/PKG-INFO
+Baby_Name_Predictor.egg-info/SOURCES.txt
+Baby_Name_Predictor.egg-info/dependency_links.txt
+Baby_Name_Predictor.egg-info/requires.txt
+Baby_Name_Predictor.egg-info/top_level.txt
+data_scrapper/__init__.py
+data_scrapper/main_scrapper.py
